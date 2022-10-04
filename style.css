@@ -1,13 +1,19 @@
 *{
     font-family: 'Assistant', sans-serif;
 }
+
+.a1{
+    background-color: rgb(1, 30, 52);
+}
+
 .container{
     text-align: center;
+    
 }
+
 .community{
     background-color: rgb(255, 253, 253);
-   
-    border-radius: 11px;
+    border: none;
 }
 
 .community-header{
@@ -20,18 +26,20 @@
 
 .color{
     color: rgb(159, 155, 155);
+    margin-bottom: 0px;
 }
 
 .style{
     background-color: rgba(30, 224, 55, 0.757);
     color: #fff;
     border:none;
-    border-radius: 5px;
+    border-radius: 5px; 
     width: 100px;
     height: 20px;
     text-align:center;
 
 }
+
 .why-us{
     background-color: rgba(85, 145, 142, 0.698);
     color: #fff;
@@ -58,4 +66,6 @@
 
 .card-header {
    width: 20ch;
+   text-align: center;
+   margin-top: 40px;
 }
